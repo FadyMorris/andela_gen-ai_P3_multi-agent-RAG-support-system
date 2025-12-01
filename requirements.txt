@@ -1,0 +1,10 @@
+langchain
+langgraph
+langfuse
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+pydantic
+chromadb
+python-dotenv
+openai
